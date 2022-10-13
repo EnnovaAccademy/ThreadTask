@@ -1,0 +1,15 @@
+C:\Users\matti\Desktop\AppC#\Thread\Thread\bin\Debug\net6.0\ThreadEsempio.exe
+C:\Users\matti\Desktop\AppC#\Thread\Thread\bin\Debug\net6.0\ThreadEsempio.deps.json
+C:\Users\matti\Desktop\AppC#\Thread\Thread\bin\Debug\net6.0\ThreadEsempio.runtimeconfig.json
+C:\Users\matti\Desktop\AppC#\Thread\Thread\bin\Debug\net6.0\ThreadEsempio.dll
+C:\Users\matti\Desktop\AppC#\Thread\Thread\bin\Debug\net6.0\ThreadEsempio.pdb
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.csproj.AssemblyReference.cache
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.AssemblyInfo.cs
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.dll
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\refint\ThreadEsempio.dll
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.pdb
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ThreadEsempio.genruntimeconfig.cache
+C:\Users\matti\Desktop\AppC#\Thread\Thread\obj\Debug\net6.0\ref\ThreadEsempio.dll
